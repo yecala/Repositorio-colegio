@@ -1,0 +1,4 @@
+1,Rectoría
+2,Dirección
+3,Informatica
+4,Administración
